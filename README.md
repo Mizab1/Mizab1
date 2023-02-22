@@ -6,7 +6,7 @@
 
 <!-- Section -->
 
-## 🙋‍ **About me**
+## 🙋‍ **About me :**
 
 - 👋 Hi, I’m @Mizab1 AKA AstroKnight AKA Mizab.
 - 🎮 I am a Professional Game Developer.
@@ -42,7 +42,7 @@
 <!-- Section -->
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats  </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats  :</b>
 <br>
 <div align="center">
   <a href="https://github.com/Mizab1/">
