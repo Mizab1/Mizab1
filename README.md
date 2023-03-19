@@ -8,11 +8,13 @@
 
 ## 🙋‍ **About me :**
 
-- 👋 Hi, I’m @Mizab1 AKA AstroKnight AKA Mizab.
-- 🎮 I am a Professional Game Developer.
-- 👀 I’m interested in App Development and Game Development and a little bit of Web Development.
-- 👉Languages I know: JavaScript, TypeScript, Java, C, C++, PHP, Sandstone, MCB, JMC, VB.net, SQL, Kotlin, Rust, ASM and much more!
-- ⭐ I like to play games and code in my free time.
+- 👋 Greetings, I am Mizab1, also known as AstroKnight or simply Mizab. I am an accomplished game developer with a passion for app development, as well as a strong interest in web development. I am dedicated to delivering the highest quality products and services in the field of game development.
+
+- 👀 I possess a wealth of knowledge and experience in a wide range of programming languages, including but not limited to JavaScript, TypeScript, Java, C, C++, PHP, Sandstone, MCB, JMC, VB.net, SQL, Kotlin, Rust, and ASM. My technical acumen and proficiency in these languages enable me to tackle complex projects and deliver innovative solutions.
+
+- ⭐ When I am not busy developing games or apps, I enjoy playing games and experimenting with new technologies. I strive to keep up with the latest trends and emerging technologies to stay ahead of the curve in my field.
+
+- Overall, I am passionate about what I do, and I take great pride in delivering exceptional results. Thank you for taking the time to learn more about me, and I look forward to the opportunity to collaborate and create something amazing! 👨‍💻🚀🎉
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
