@@ -73,7 +73,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&duration=1500&pause=200&multiline=true&repeat=false&width=500&height=150&lines=%22You+are+not+a+true+programmer+until+;you+spend+hours+debugging+your+code+and+;it+turns+out+to+be+a+typo%22+~Mizab" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&multiline=true&repeat=false&width=1000&height=200&lines=%20A+common+rite+of+passage+for+programmers+is+;spending+hours+debugging+their+code%2C+;only+to+discover+that+a+simple+typo+was+;causing+the+issue.%22+~Mizab+" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="right">
