@@ -8,7 +8,7 @@
 
 ## 🙋‍ **About me :**
 
-- 👋 Greetings, I am Mizab1, also known as AstroKnight or simply Mizab. I am an accomplished game developer with a passion for app development, as well as a strong interest in web development. I am dedicated to delivering the highest quality products and services in the field of game development.
+- 👋 Greetings, I am Mizab. I am an accomplished game developer with a passion for app development, as well as a strong interest in web development. I am dedicated to delivering the highest quality products and services in the field of game development.
 
 - 👀 I possess a wealth of knowledge and experience in a wide range of programming languages, including but not limited to JavaScript, TypeScript, Java, C, C++, PHP, Sandstone, MCB, JMC, VB.net, SQL, Kotlin, Rust, and ASM. My technical acumen and proficiency in these languages enable me to tackle complex projects and deliver innovative solutions.
 
