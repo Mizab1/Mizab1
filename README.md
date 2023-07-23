@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Mizab Ansari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=1000&width=435&lines=Self-taught+Developer;Computer+Science+Student;Active+Thinker+and+Learner;Love+to+try+out+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=1000&center=true&width=400&lines=Self-taught+Developer;Computer+Science+Student;Active+Thinker+and+Learner;Love+to+try+out+new+things" alt="Typing SVG" /></a>
 </p>
 
 <!-- Section -->
@@ -38,7 +38,7 @@
 <!-- Section -->
 
 
-## 🧑‍💻 **Tools I use  :**
+## 🔨 **Tools I use  :**
 <img src="https://user-images.githubusercontent.com/67660416/219934840-87957501-62c4-4e1e-a3c8-9d4b4b49d6c0.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934904-4aa58d63-af87-412d-9af7-2b2774b1d9fa.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219935019-80a07954-3d67-4e62-9483-9c3f4101042d.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219935071-39885be6-a8b3-4925-9edb-653ce4e8ab76.png" width="50" height="50"/>
 <br>
 <br>
