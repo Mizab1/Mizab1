@@ -8,9 +8,9 @@
 
 ## 🙋‍ **About me :**
 
-- 👋 Greetings, I am Mizab. I am an accomplished game developer with a passion for app development, as well as a strong interest in web development. I am dedicated to delivering the highest quality products and services in the field of game development.
+- 👋 Greetings, I am Mizab. I am an accomplished game developer with a passion for web development, as well as a strong interest in app development. I am dedicated to delivering the highest quality products and services in the field of game development.
 
-- 👀 I possess a wealth of knowledge and experience in a wide range of programming languages, including but not limited to JavaScript, TypeScript, Java, C, C++, PHP, Sandstone, MCB, JMC, VB.net, SQL, Kotlin, Rust, and ASM. My technical acumen and proficiency in these languages enable me to tackle complex projects and deliver innovative solutions.
+- 👀 I possess a wealth of knowledge and experience in a wide range of programming languages, including but not limited to JavaScript, TypeScript, Java, React, NextJS, NodeJS, PHP, Sandstone, MCB, JMC, MongoDB, SQL, and ASM. My technical acumen and proficiency in these languages enable me to tackle complex projects and deliver innovative solutions.
 
 - ⭐ When I am not busy developing games or apps, I enjoy playing games and experimenting with new technologies. I strive to keep up with the latest trends and emerging technologies to stay ahead of the curve in my field.
 
@@ -30,6 +30,8 @@
 <img src="https://user-images.githubusercontent.com/67660416/219934524-35662e49-aa73-4d8a-9e1e-f906377a61c6.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934671-95ec9ac6-d37d-4890-bf4c-20a2c9d016e6.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934643-68249a17-01b6-456f-a902-2de515039869.png" width="50" height="50"/> <img src="https://sandstone-documentation.vercel.app/img/icons/logo.png" width="50" height="50"/>
 <br>
 <img src="https://mcbuild.dev/img/logo.png" width="50" height="50"/> <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="50" height="50"/> <img src="https://github.com/WingedSeal/jmc/raw/webpage/src/assets/image/jmc_icon192.png?raw=true" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219936447-b31ad6d4-073a-4018-b123-3b8cc9fe041f.png" width="50" height="50"/>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="50" height="50"/> <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="50" height="50"/> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="50" height="50"/>
 <br>
 <br>
 
