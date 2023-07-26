@@ -23,15 +23,15 @@
 
 ## 🧑‍💻 **Languages I know  :**
                
-<img src="https://user-images.githubusercontent.com/67660416/219933600-663d70f0-f518-4e69-9d8c-d0df6f031aab.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219933934-f295abd3-7a0c-4aaa-9bf9-b41746bd9f1f.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219933965-0c5d5e1e-566a-4c18-91a2-753a751fef3a.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934072-20faa5d7-825d-4483-9035-aa7c70aafba3.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
 <br>
-<img src="https://user-images.githubusercontent.com/67660416/219934110-fc49e338-a0bb-4325-a61c-aca3fecc2f14.png" width="50" height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/8760/8760206.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934374-300bb52d-d1da-4770-a9d3-2b336542c391.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934480-60fcedb2-5cca-4df8-a0bf-db444a360447.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/8760/8760206.png" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
 <br>
-<img src="https://user-images.githubusercontent.com/67660416/219934524-35662e49-aa73-4d8a-9e1e-f906377a61c6.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934671-95ec9ac6-d37d-4890-bf4c-20a2c9d016e6.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934643-68249a17-01b6-456f-a902-2de515039869.png" width="50" height="50"/> <img src="https://sandstone-documentation.vercel.app/img/icons/logo.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/> <img src="https://sandstone-documentation.vercel.app/img/icons/logo.png" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 <br>
-<img src="https://mcbuild.dev/img/logo.png" width="50" height="50"/> <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="50" height="50"/> <img src="https://github.com/WingedSeal/jmc/raw/webpage/src/assets/image/jmc_icon192.png?raw=true" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219936447-b31ad6d4-073a-4018-b123-3b8cc9fe041f.png" width="50" height="50"/>
+<img src="https://mcbuild.dev/img/logo.png" width="50" height="50"/> <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="50" height="50"/> <img src="https://github.com/WingedSeal/jmc/raw/webpage/src/assets/image/jmc_icon192.png?raw=true" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="50" height="50"/> <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="50" height="50"/> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
 <br>
 <br>
 
@@ -39,7 +39,7 @@
 
 
 ## 🔨 **Tools I use  :**
-<img src="https://user-images.githubusercontent.com/67660416/219934840-87957501-62c4-4e1e-a3c8-9d4b4b49d6c0.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934904-4aa58d63-af87-412d-9af7-2b2774b1d9fa.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219935019-80a07954-3d67-4e62-9483-9c3f4101042d.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219935071-39885be6-a8b3-4925-9edb-653ce4e8ab76.png" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/67660416/219934840-87957501-62c4-4e1e-a3c8-9d4b4b49d6c0.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934904-4aa58d63-af87-412d-9af7-2b2774b1d9fa.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219935019-80a07954-3d67-4e62-9483-9c3f4101042d.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219935071-39885be6-a8b3-4925-9edb-653ce4e8ab76.png" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
 <br>
 <br>
 
