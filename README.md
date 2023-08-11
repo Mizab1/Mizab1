@@ -50,8 +50,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/Mizab1/">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mizab1&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizab1&langs_count=8d&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Mizab's Top Used Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mizab1&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizab1&layout=compact&langs_count=10&theme=tokyonight" width="375"  alt="Mizab's Top Used Languages"/>
   </a>
 </div>
 <br><br>
@@ -62,7 +62,7 @@
 
 <br>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mizab1&theme=algolia&row=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mizab1&theme=tokyonight&row=2" />
   </div>
 <br>
 
@@ -75,7 +75,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&multiline=true&repeat=false&width=1000&height=200&lines=%20A+common+rite+of+passage+for+programmers+is+;spending+hours+debugging+their+code%2C+;only+to+discover+that+a+simple+typo+was+;causing+the+issue.%22+~Mizab+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&size=20&duration=1500&multiline=true&repeat=false&width=1000&height=200&lines=%20A+common+rite+of+passage+for+programmers+is+;spending+hours+debugging+their+code%2C+;only+to+discover+that+a+simple+typo+was+;causing+the+issue.%22+~Mizab+" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="right">
