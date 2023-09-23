@@ -49,9 +49,15 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats  :</b>
 <br>
 <div align="center">
-  <a href="https://github.com/Mizab1/">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mizab1&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizab1&layout=compact&langs_count=10&theme=tokyonight" width="375"  alt="Mizab's Top Used Languages"/>
+  <a href="">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mizab1&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Mizab1&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=transparent">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizab1&layout=compact&langs_count=10&theme=tokyonight">
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizab1&layout=compact&langs_count=10&theme=transparent">
+    </picture>
   </a>
 </div>
 <br><br>
@@ -62,7 +68,10 @@
 
 <br>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mizab1&theme=tokyonight&row=2" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mizab1&theme=tokyonight&row=2">
+      <img alt="Stats" src="https://github-profile-trophy.vercel.app/?username=Mizab1&theme=flat&row=2">
+    </picture>
   </div>
 <br>
 
