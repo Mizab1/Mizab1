@@ -14,24 +14,28 @@
 
 - ⭐ When I am not busy developing games or apps, I enjoy playing games and experimenting with new technologies. I strive to keep up with the latest trends and emerging technologies to stay ahead of the curve in my field.
 
-- Overall, I am passionate about what I do, and I take great pride in delivering exceptional results. Thank you for taking the time to learn more about me, and I look forward to the opportunity to collaborate and create something amazing! 👨‍💻🚀🎉
+- 🌐 Overall, I am passionate about what I do, and I take great pride in delivering exceptional results. Thank you for taking the time to learn more about me, and I look forward to the opportunity to collaborate and create something amazing! 👨‍💻🚀🎉
+
+- 🖥️  See my portfolio at [Portfolio Website](http://mizab.vercel.app)
+
+- ✉️  You can contact me at [mizab.developer.1@gmail.com](mailto:mizab.developer.1@gmail.com)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
 <!-- Section -->
 
 ## 🧑‍💻 **Languages I know  :**
-               
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/8760/8760206.png" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/8760/8760206.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/> <img src="https://sandstone-documentation.vercel.app/img/icons/logo.png" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/> <img src="https://sandstone-documentation.vercel.app/img/icons/logo.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 <br>
-<img src="https://mcbuild.dev/img/logo.png" width="50" height="50"/> <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="50" height="50"/> <img src="https://github.com/WingedSeal/jmc/raw/webpage/src/assets/image/jmc_icon192.png?raw=true" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+<img src="https://mcbuild.dev/img/logo.png" width="50" height="50"/> <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="50" height="50"/> <img src="" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
 <br>
 <br>
 
