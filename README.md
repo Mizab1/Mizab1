@@ -62,6 +62,11 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizab1&layout=compact&langs_count=10&theme=tokyonight">
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizab1&layout=compact&langs_count=10&theme=transparent">
     </picture>
+    <picture>
+<!--       [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mizab1&theme=tokyo-night&radius=12" height=280>
+      <img alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Mizab1&radius=12" height=280>
+    </picture>
   </a>
 </div>
 <br><br>
