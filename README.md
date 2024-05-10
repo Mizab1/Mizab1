@@ -24,6 +24,8 @@
 <br>
 <!-- Section -->
 
+<!-- ![](https://komarev.com/ghpvc/?username=Mizab1&style=for-the-badge) -->
+
 ## 🧑‍💻 **Languages I know  :**
          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
