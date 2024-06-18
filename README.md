@@ -71,6 +71,15 @@
 <!--     </picture> -->
   </a>
 </div>
+
+##
+<br>
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mizab1&theme=tokyonight">
+      <img alt="Stats" src="https://streak-stats.demolab.com?user=Mizab1">
+    </picture>
+</div>
 <br><br>
 
 <!-- Section -->
