@@ -55,7 +55,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats  :</b>
 <br>
 <div align="center">
-  <a href="">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mizab1&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=tokyonight">
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Mizab1&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=transparent">
@@ -69,7 +68,6 @@
 <!--       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mizab1&theme=tokyo-night&radius=12" height=280> -->
 <!--       <img alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Mizab1&radius=12" height=280> -->
 <!--     </picture> -->
-  </a>
 </div>
 
 ##
