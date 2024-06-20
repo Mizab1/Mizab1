@@ -101,6 +101,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=mizab1&style=for-the-badge&label=VIEWS&base=637">
+</div>
+
 <!---
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&size=20&duration=1500&multiline=true&repeat=false&width=1000&height=200&lines=%20A+common+rite+of+passage+for+programmers+is+;spending+hours+debugging+their+code%2C+;only+to+discover+that+a+simple+typo+was+;causing+the+issue.%22+~Mizab+" alt="Typing SVG" /></a>
