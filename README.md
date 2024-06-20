@@ -102,7 +102,7 @@
 <br>
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=mizab1&style=for-the-badge&label=VIEWS&base=637">
+  <img src="https://komarev.com/ghpvc/?username=mizab1&style=for-the-badge&label=VIEWS">
 </div>
 
 <!---
