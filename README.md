@@ -110,7 +110,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&size=20&duration=1500&multiline=true&repeat=false&width=1000&height=200&lines=%20A+common+rite+of+passage+for+programmers+is+;spending+hours+debugging+their+code%2C+;only+to+discover+that+a+simple+typo+was+;causing+the+issue.%22+~Mizab+" alt="Typing SVG" /></a>
 </div>
 <br>
-<div align="right">
+<div align="left">
   -- 0x536565207961206e6578742074696d65 😉
 </div>
 --->
