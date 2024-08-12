@@ -35,7 +35,7 @@
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/> <img src="https://sandstone-documentation.vercel.app/img/icons/logo.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 <br>
-<img src="https://mcbuild.dev/img/logo.png" width="50" height="50"/> <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="50" height="50"/> <img src="https://jmc.wingedseal.com/static/media/jmc_icon.91c8f873ccc4cb864414.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+<img src="https://mcbuild.dev/img/logo.png" width="50" height="50"/> <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="50" height="50"/> <img src="https://jmc.wingedseal.com/static/media/jmc_icon.91c8f873ccc4cb864414.png" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
 <br>
