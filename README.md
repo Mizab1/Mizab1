@@ -24,7 +24,7 @@
 <br>
 <!-- Section -->
 
-<!-- ![](https://komarev.com/ghpvc/?username=Mizab1&style=for-the-badge) -->
+<!-- ![](https://komarev.com/ghpvc/?username=Mizab1&style=for-the-badge)  -->
 
 ## 🧑‍💻 **Technologies I use :**
          
