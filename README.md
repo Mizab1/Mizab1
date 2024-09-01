@@ -10,7 +10,7 @@
 
 - 👋 Greetings, I am Mizab. I am an accomplished game developer with a passion for web development, as well as a strong interest in app development. I am dedicated to delivering the highest quality products and services in the field of development.
 
-- 👀 I possess a wealth of knowledge and experience in a wide range of programming languages, including but not limited to JavaScript, TypeScript, Java, React, NextJS, NodeJS, PHP, Sandstone, MCB, JMC, MongoDB, SQL, and ASM. My technical acumen and proficiency in these languages enable me to tackle complex projects and deliver innovative solutions.
+- 👀 I possess a wealth of knowledge and experience in a wide range of programming languages, including but not limited to JavaScript, TypeScript, Java, Python, React, NextJS, NodeJS, PHP, Sandstone, MCB, JMC, MongoDB, SQL, and ASM. My technical acumen and proficiency in these languages enable me to tackle complex projects and deliver innovative solutions.
 
 - ⭐ When I am not busy developing games or apps, I enjoy playing games and experimenting with new technologies. I strive to keep up with the latest trends and emerging technologies to stay ahead of the curve in my field.
 
