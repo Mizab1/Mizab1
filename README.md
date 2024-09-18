@@ -74,8 +74,8 @@
 <br>
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mizab1&theme=tokyonight">
-      <img alt="Stats" src="https://streak-stats.demolab.com?user=Mizab1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mizab1&theme=tokyonight&hide_total_contributions=true">
+      <img alt="Stats" src="https://streak-stats.demolab.com?user=Mizab1&hide_total_contributions=true">
     </picture>
 </div>
 <br><br>
