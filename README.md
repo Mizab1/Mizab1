@@ -1,7 +1,9 @@
 <h1 align="center"><b>Hi , I'm Mizab Ansari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=1000&center=true&width=400&lines=Self-taught+Developer;Computer+Science+Student;Active+Thinker+and+Learner;Love+to+try+out+new+things" alt="Typing SVG" />
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=1000&center=true&width=400&lines=Self-taught+Developer;Computer+Science+Student;Active+Thinker+and+Learner;Love+to+try+out+new+things" alt="Typing SVG" />
+  </picture>
 </p>
 
 <!-- Section -->
@@ -27,7 +29,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Mizab1&style=for-the-badge)  -->
 
 ## 🧑‍💻 **Technologies I use :**
-         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
 <br>
@@ -40,7 +41,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
 <br>
 <br>
-
 <!-- Section -->
 
 
