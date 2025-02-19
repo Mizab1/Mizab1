@@ -6,11 +6,15 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="GIFs/hero.gif"/>
+</p>
+
 <!-- Section -->
 
 ## 🙋‍ **About me :**
 
-- 👋 Greetings, I am Mizab. I am an accomplished game developer with a passion for web development, as well as a strong interest in app development. I am dedicated to delivering the highest quality products and services in the field of development.
+- 👋 Greetings, I am Mizab, a developer with a strong focus on delivering quality products and services. I believe in the importance of quality and excellence in my work. I always aim to innovate and improve, striving to meet and exceed expectations in the development field.
 
 - 👀 I possess a wealth of knowledge and experience in a wide range of programming languages, including but not limited to JavaScript, TypeScript, Java, Python, React, NextJS, NodeJS, PHP, Sandstone, MCB, JMC, MongoDB, SQL, and ASM. My technical acumen and proficiency in these languages enable me to tackle complex projects and deliver innovative solutions.
 
@@ -29,25 +33,39 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Mizab1&style=for-the-badge)  -->
 
 ## 🧑‍💻 **Technologies I use :**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/8760/8760206.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/> <img src="https://sandstone-documentation.vercel.app/img/icons/logo.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-<br>
-<img src="https://mcbuild.dev/img/logo.png" width="50" height="50"/> <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="50" height="50"/> <img src="https://jmc.wingedseal.com/static/media/jmc_icon.91c8f873ccc4cb864414.png" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
-<br>
-<br>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/8760/8760206.png" width="65" height="65"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65"/> 
+  <img src="https://sandstone-documentation.vercel.app/img/icons/logo.png" width="65" height="65"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65"/>
+  <img src="https://mcbuild.dev/img/logo.png" width="65" height="65"/> <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="65" height="65"/> 
+  <img src="https://jmc.wingedseal.com/static/media/jmc_icon.91c8f873ccc4cb864414.png" width="65" height="65" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65"/>
+  <br>
+</p>
+
 <!-- Section -->
 
 
 ## 🔨 **Tools I use  :**
-<img src="https://user-images.githubusercontent.com/67660416/219934840-87957501-62c4-4e1e-a3c8-9d4b4b49d6c0.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219934904-4aa58d63-af87-412d-9af7-2b2774b1d9fa.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219935019-80a07954-3d67-4e62-9483-9c3f4101042d.png" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/67660416/219935071-39885be6-a8b3-4925-9edb-653ce4e8ab76.png" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-<br>
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67660416/219934840-87957501-62c4-4e1e-a3c8-9d4b4b49d6c0.png" width="65" height="65"/> 
+  <img src="https://user-images.githubusercontent.com/67660416/219934904-4aa58d63-af87-412d-9af7-2b2774b1d9fa.png" width="65" height="65"/> 
+  <img src="https://user-images.githubusercontent.com/67660416/219935019-80a07954-3d67-4e62-9483-9c3f4101042d.png" width="65" height="65"/> 
+  <img src="https://user-images.githubusercontent.com/67660416/219935071-39885be6-a8b3-4925-9edb-653ce4e8ab76.png" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="65" height="65"/>
+  <br>
+</p>
 
 <!-- Section  -->
 
