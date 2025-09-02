@@ -14,7 +14,7 @@
 
 ## 🙋‍ **About me :**
 
-- 👋 Greetings, I am Mizab, a developer with a strong focus on delivering quality products and services. I believe in the importance of quality and excellence in my work. I always aim to innovate and improve, striving to meet and exceed expectations in the development field.
+- 👋 Greetings, I am Mizab, a Software Developer with a strong focus on delivering quality products and services. I believe in the importance of quality and excellence in my work. I always aim to innovate and improve, striving to meet and exceed expectations in the development field.
 
 - 👀 I possess a wealth of knowledge and experience in a wide range of programming languages, including but not limited to JavaScript, TypeScript, Java, Python, React, NextJS, NodeJS, PHP, Sandstone, MCB, JMC, MongoDB, SQL, and ASM. My technical acumen and proficiency in these languages enable me to tackle complex projects and deliver innovative solutions.
 
