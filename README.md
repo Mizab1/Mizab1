@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=1000&center=true&width=400&lines=Self-taught+Developer;Computer+Science+Student;Active+Thinker+and+Learner;Love+to+try+out+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&pause=1000&center=true&width=400&lines=Software+Engineer;Computer+Science+Student;Active+Thinker+and+Learner;Love+to+try+out+new+things" alt="Typing SVG" />
   </picture>
 </p>
 
