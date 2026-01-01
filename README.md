@@ -111,6 +111,10 @@
   </div>
 <br>
 
+<!-- Section -->
+
+## 😂 Jokes  :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- Section -->
 
@@ -120,7 +124,7 @@
 <br>
 
 
-  ![](https://komarev.com/ghpvc/?username=mizab1&style=for-the-badge&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=mizab1&style=for-the-badge&label=VIEWS)
 
 
 <!---
