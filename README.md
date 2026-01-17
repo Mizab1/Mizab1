@@ -113,7 +113,7 @@
 
 <!-- Section -->
 
-## 😂 Jokes  :<br>
+## 😋 Fun?  :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- Section -->
