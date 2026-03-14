@@ -6,9 +6,12 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="GIFs/hero.gif"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="GIFs/hero.gif">
+    <img alt="Banner" src="GIFs/hero_light.gif">
+  </picture>
+</div>
 
 <!-- Section -->
 
