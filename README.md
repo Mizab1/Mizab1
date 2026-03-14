@@ -114,7 +114,12 @@
 <!-- Section -->
 
 ## 😋 Fun?  :<br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=tokyonight">
+    <img alt="Stats" src=https://readme-jokes.vercel.app/api?theme=buefy">
+  </picture>
+</div>
 
 <!-- Section -->
 
