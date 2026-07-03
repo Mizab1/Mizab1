@@ -75,23 +75,23 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats  :</b>
 <br>
-<div align="center">
-    <picture>
+<!-- <div align="center"> -->
+    <!-- <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mizab1&include_all_commits=true&count_private=true&show_icons=true&line_height=28&theme=tokyonight">
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Mizab1&include_all_commits=true&count_private=true&show_icons=true&line_height=27&theme=transparent">
-    </picture>
-    <picture>
+    </picture> -->
+    <!-- <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizab1&layout=compact&langs_count=10&theme=tokyonight">
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizab1&layout=compact&langs_count=10&theme=transparent">
-    </picture>
+    </picture> -->
 <!--     <picture> -->
 <!--       [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!--       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mizab1&theme=tokyo-night&radius=12" height=280> -->
 <!--       <img alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Mizab1&radius=12" height=280> -->
 <!--     </picture> -->
-</div>
+<!-- </div> -->
 
-##
+<!-- ## -->
 <br>
 <div align="center">
     <picture>
@@ -99,20 +99,20 @@
       <img alt="Stats" src="https://streak-stats.demolab.com?user=Mizab1">
     </picture>
 </div>
-<br><br>
+<!-- <br><br> -->
 
 <!-- Section -->
 
-## 🏆 GitHub Trophies  :<br>
+<!-- ## 🏆 GitHub Trophies  :<br> -->
 
-<br>
+<!-- <br>
   <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Mizab1&theme=tokyonight&row=2">
       <img alt="Stats" src="https://github-profile-trophy.vercel.app/?username=Mizab1&theme=flat&row=2">
     </picture>
   </div>
-<br>
+<br> -->
 
 <!-- Section -->
 
