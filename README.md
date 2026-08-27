@@ -25,7 +25,7 @@
 
 - 🌐 Overall, I am passionate about what I do, and I take great pride in delivering exceptional results. Thank you for taking the time to learn more about me, and I look forward to the opportunity to collaborate and create something amazing! 👨‍💻🚀🎉
 
-- 🖥️  See my portfolio at [Portfolio Website](http://mizab.vercel.app)
+- 🖥️  See my portfolio at [Portfolio Website](https://www.mizab.xyz/)
 
 - ✉️  You can contact me at [mizab.developer.1@gmail.com](mailto:mizab.developer.1@gmail.com)
 <br>
