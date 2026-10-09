@@ -37,7 +37,7 @@
 
 <!-- Tech stacks -->
 ## 🧑‍💻 **Technologies I use :**
-<p align="center">
+<p align="left">
   <a href="">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpython%2Cjava%2Cphp%2Ctailwind%2Cbootstrap%2Cnodejs%2Creact%2Cnextjs%2Cexpress%2Cfastapi%2Cmysql%2Cmongodb%2Cdocker%2Ctensorflow%2Chtml%2Ccss&theme=dark&perline=6">
@@ -48,7 +48,7 @@
 </p>
 
 ## 💻 **Other Technologies I use :**
-<p align="center">
+<p align="left">
   <img src="https://sandstone-documentation.vercel.app/img/icons/logo.png" width="45" height="45"/> 
   <img src="https://mcbuild.dev/img/logo.png" width="45" height="45"/> 
   <img src="https://minecraft-tutos.com/wp-content/uploads/2020/09/optifine-logo.jpg" width="45" height="45"/> 
@@ -56,7 +56,7 @@
 </p>
 
 ## 🔨 **Tools I use  :**
-<p align="center">
+<p align="left">
   <a href="">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cgit%2Cgithub%2Cpowershell%2Cyarn%2Cnpm%2Cidea%2Cgcp%2Cbun%2Candroidstudio&theme=dark&perline=6">
