@@ -40,9 +40,9 @@
 <p align="center">
   <a href="">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpython%2Cjava%2Cphp%2Ctailwind%2Cbootstrap%2Cnodejs%2Creact%2Cnextjs%2Cexpress%2Cfastapi%2Cmysql%2Cmongodb%2Cdocker%2Ctensorflow%2Chtml%2Ccss&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpython%2Cjava%2Cphp%2Ctailwind%2Cbootstrap%2Cnodejs%2Creact%2Cnextjs%2Cexpress%2Cfastapi%2Cmysql%2Cmongodb%2Cdocker%2Ctensorflow%2Chtml%2Ccss&theme=light">
-      <img alt="My Skills" src="https://skillicons.dev/icons?i=ts,js,python,java,php,tailwind,bootstrap,nodejs,react,nextjs,express,fastapi,mysql,mongodb,docker,tensorflow,html,css">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpython%2Cjava%2Cphp%2Ctailwind%2Cbootstrap%2Cnodejs%2Creact%2Cnextjs%2Cexpress%2Cfastapi%2Cmysql%2Cmongodb%2Cdocker%2Ctensorflow%2Chtml%2Ccss&theme=dark&perline=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpython%2Cjava%2Cphp%2Ctailwind%2Cbootstrap%2Cnodejs%2Creact%2Cnextjs%2Cexpress%2Cfastapi%2Cmysql%2Cmongodb%2Cdocker%2Ctensorflow%2Chtml%2Ccss&theme=light&perline=6">
+      <img alt="My Skills" src="https://skillicons.dev/icons?i=ts,js,python,java,php,tailwind,bootstrap,nodejs,react,nextjs,express,fastapi,mysql,mongodb,docker,tensorflow,html,css&perline=6">
     </picture>
   </a>
 </p>
@@ -59,9 +59,9 @@
 <p align="center">
   <a href="">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cgit%2Cgithub%2Cpowershell%2Cyarn%2Cnpm%2Cidea%2Cgcp%2Cbun%2Candroidstudio&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode%2Cgit%2Cgithub%2Cpowershell%2Cyarn%2Cnpm%2Cidea%2Cgcp%2Cbun%2Candroidstudio&theme=light">
-      <img alt="Tools" src="https://skillicons.dev/icons?i=vscode,git,github,powershell,yarn,npm,idea,gcp,bun,androidstudio">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cgit%2Cgithub%2Cpowershell%2Cyarn%2Cnpm%2Cidea%2Cgcp%2Cbun%2Candroidstudio&theme=dark&perline=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode%2Cgit%2Cgithub%2Cpowershell%2Cyarn%2Cnpm%2Cidea%2Cgcp%2Cbun%2Candroidstudio&theme=light&perline=6">
+      <img alt="Tools" src="https://skillicons.dev/icons?i=vscode,git,github,powershell,yarn,npm,idea,gcp,bun,androidstudio&perline=6">
     </picture>
   </a>
   <br>
